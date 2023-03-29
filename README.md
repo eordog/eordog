@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome!
+
+My name is Erika, and I'm a Data Scientist and Mathematics PhD.
+
+I hope you'll take a look at my projects:
+* predicting flight delays out of JFK 
+* classifying brain tumor types from MRI images
+* predicting melting temperatures of enzymes given their protein sequences
 
 <!--
 **eordog/eordog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
