@@ -3,6 +3,7 @@
 My name is Erika, and I'm a Data Scientist and Mathematics PhD.
 
 I hope you'll take a look at my projects:
+* predicting species density given natural and anthropogenic features
 * predicting flight delays out of JFK 
 * classifying brain tumor types from MRI images
 * predicting melting temperatures of enzymes given their protein sequences
